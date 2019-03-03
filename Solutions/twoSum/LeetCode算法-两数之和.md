@@ -92,4 +92,4 @@ public:
 1、当算法对空间复杂度不做要求时，我们可以考虑以空间换时间，采用哈希表以O(1)的时间复杂度来查找元素；  
 2、学习C++ STL中的哈希表 ``unordered_map``。  
 
-附：[完整代码]()
+附：[完整代码](https://github.com/floperry/LintCode_CPP/blob/master/Solutions/twoSum/twoSum.cpp)
