@@ -70,4 +70,4 @@ public:
 总结：  
 好好学习链表的相关知识。  
 
-附：[完整代码](https://github.com/floperry/LintCode_CPP/blob/master/Solutions/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/twoSum.cpp)
+附：[完整代码](https://github.com/floperry/LeetCode_CPP/blob/master/Solutions/%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0/addTwoNumbers.cpp)
